@@ -13,3 +13,29 @@ header {
 h1 {
     font-size: 50px;
 }
+
+h4 {
+    color:#808080;
+
+}
+
+.title-section{
+    margin-top: 50px;
+    margin-bottom: 5px;
+    font-size: 25px;
+
+}
+
+.date {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.Autor {
+    color: #20A9E5;
+    text-decoration: none;
+}
+
+.didascalia {
+    font-size: 14px;
+}
