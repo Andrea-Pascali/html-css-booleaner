@@ -15,11 +15,11 @@ h1 {
 }
 
 h4 {
-    color:#808080;
+    color: #808080;
 
 }
 
-.title-section{
+.title-section {
     margin-top: 50px;
     margin-bottom: 5px;
     font-size: 25px;
@@ -38,4 +38,31 @@ h4 {
 
 .didascalia {
     font-size: 14px;
+}
+
+
+
+.big-cells {
+    width: 60%;
+    background-color: #20A9E5;
+}
+
+.first-cells {
+    color: white;
+    text-align: left;
+    background-color: #20A9E5;
+    width: 20%;
+
+}
+
+
+
+.second-cell {
+    background-color: #b1e5f2;
+
+}
+
+.big-cell-two {
+    width: 60%;
+    background-color: #b1e5f2;
 }
